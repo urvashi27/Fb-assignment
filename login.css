@@ -1,0 +1,54 @@
+
+
+.navbar 
+{
+	
+height:90px;
+background-color:#3d5b99;
+}
+#label1
+{
+	color: white;
+}
+#label2
+{
+color:white;
+}
+body{
+background-color:whitesmoke;
+	
+}
+#create b
+{
+color:black;
+font-size:36px;
+}
+#img2
+{
+top:130px;
+	left:160px;
+	width:537px;
+	height:195px;
+}
+b
+{
+	font-size:20px;
+	color:#3d5b99;
+}
+.fb-body-footer{
+	width:100%;
+	position:absolute;
+	left:0px;
+	height:80px;
+	background:white;
+	top:700px;
+	
+}
+#fb-body-footer-base{
+	width:900px;
+	top:15px;
+	left:200px;
+	color:blue;
+	height:60px;
+}
+
